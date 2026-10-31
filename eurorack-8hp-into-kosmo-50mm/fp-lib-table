@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kosmo-panel")(type "KiCad")(uri "../../kicad-libs/kosmo-panel.pretty")(options "")(descr ""))
+)
